@@ -8,6 +8,7 @@ This is a small repo that just contains the output of running [Nativefier](https
 Notion has a desktop client for Windows and Mac, but no love for Linux. There are a few other electron-based projects looking at wrapping it, but they all had small things I didn't like about them.
 
 ## How do I install it
+- unzip the `notion-linux-x64.zip` somewhere
 - copy the `notion-linux-x64` folder to somewhere you keep applications (I put mine in `/opt/`)
 - copy the notion.desktop file somewhere you keep application manifests (I put mine in `/usr/share/applications/` but you might want to put it somewhere else maybe. More info [here.](https://developer.gnome.org/integration-guide/stable/desktop-files.html.en))
 - change the paths in the desktop file if you put your `notion-linux-x64` folder somewhere else.
