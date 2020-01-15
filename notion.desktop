@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=Notion created with nativefier
+Terminal=false
+Name=Notion
+Exec=/opt/notion-linux-x64/notion
+Type=Application
+Icon=/opt/notion-linux-x64/logo.png
+Categories=Network;
+StartupWMClass=notion-nativefier-32ffe4
