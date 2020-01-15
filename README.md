@@ -2,7 +2,7 @@
 Nativefier-based wrapper to let notion function like a native app on linux.
 
 ## What is this
-This is a small repo that just contains the output of running (Nativefier)[https://github.com/jiahaog/nativefier] on (Notion)[https://www.notion.so/].
+This is a small repo that just contains the output of running [Nativefier](https://github.com/jiahaog/nativefier) on [Notion](https://www.notion.so/).
 
 ## Why
 Notion has a desktop client for Windows and Mac, but no love for Linux. There are a few other electron-based projects looking at wrapping it, but they all had small things I didn't like about them.
